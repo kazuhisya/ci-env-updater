@@ -1,0 +1,3 @@
+-s <ENV1>=<ENV1_Value>
+-s <ENV2>=<ENV2_Value>
+-s <ENV3>=<ENV3_Value>

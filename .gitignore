@@ -1,0 +1,13 @@
+# common
+.DS_Store
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# envfile
+circlecli.ini
+envfile.txt
+projects.txt
